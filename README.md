@@ -15,10 +15,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Shoreline%20Direct&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Global%20Trading%20%7C%20Investment%20Solutions%20%7C%20Secure%20%7C%20Efficient&descAlignY=58&descAlign=50"/>
 
-<!-- Replace logo.png with your actual Shoreline Direct logo -->
-<p align="center">
-  <img src="logo.png" width="180" alt="Shoreline Direct Logo">
-</p>
 
 </div>
 
