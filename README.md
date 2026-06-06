@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Welcome to Shoreline Direct
@@ -16,6 +15,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Shoreline%20Direct&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Global%20Trading%20%7C%20Investment%20Solutions%20%7C%20Secure%20%7C%20Efficient&descAlignY=58&descAlign=50"/>
 
+<!-- Replace logo.png with your actual Shoreline Direct logo -->
+<p align="center">
+  <img src="logo.png" width="180" alt="Shoreline Direct Logo">
+</p>
+
 </div>
 
 ---
@@ -26,7 +30,7 @@
 
 At Shoreline Direct, we value **clarity**, **efficiency**, and **partnership**. Our experienced team combines market expertise with innovative technology to deliver secure and successful transactions.
 
-We believe trading is more than just numbers—it’s about relationships and growth.
+We believe trading is more than just numbers—it's about relationships and growth.
 
 > **Empowering businesses, opening new horizons, and creating lasting value through every deal.**
 
@@ -50,12 +54,14 @@ We believe trading is more than just numbers—it’s about relationships and gr
 <td width="50%">
 
 ### 🤝 Trusted Partnerships
+
 Building long-term relationships based on transparency, reliability, and mutual success.
 
 </td>
 <td width="50%">
 
 ### 🌎 Global Market Access
+
 Connecting businesses with opportunities across international markets.
 
 </td>
@@ -65,12 +71,14 @@ Connecting businesses with opportunities across international markets.
 <td width="50%">
 
 ### 📊 Market Expertise
+
 Leveraging industry knowledge and strategic insights to maximize opportunities.
 
 </td>
 <td width="50%">
 
 ### ⚡ Efficient Solutions
+
 Delivering streamlined processes for secure and successful transactions.
 
 </td>
@@ -98,15 +106,11 @@ To become a trusted global partner in trading and investment by delivering innov
 
 # Global Business Focus
 
-<div align="left">
-
 | Markets | Services | Commitment |
 |----------|----------|-------------|
 | Global Markets | Trading Solutions | Transparency |
 | Investment Networks | Strategic Support | Reliability |
 | Business Expansion | Market Development | Efficiency |
-
-</div>
 
 ---
 
@@ -126,9 +130,11 @@ We focus on:
 
 # Partner With Shoreline Direct
 
-Whether you're looking to expand internationally, strengthen your investment strategy, or build valuable business partnerships, **Shoreline Direct is ready to guide your journey.**
+We believe successful trading is built on strong partnerships and shared growth.
 
-Together, we can navigate new opportunities and create sustainable success.
+Whether you're looking to expand into new markets, strengthen your investment strategy, or build valuable business connections, **Shoreline Direct is ready to guide your journey.**
+
+Together, we can navigate opportunities and create sustainable success.
 
 ---
 
@@ -156,4 +162,3 @@ https://shoreline-direct.net
 **Connecting Markets • Empowering Growth • Creating Value**
 
 </div>
-```
